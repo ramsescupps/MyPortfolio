@@ -61,7 +61,7 @@
 <br><br>
 
 <h2><b><i align='center'> 🕸️ Web Dev Tools: <br> </i></h2>
-  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,9 +78,9 @@
 ![Angular JS](https://camo.githubusercontent.com/0d7ee196556f885375bfd6c271a78a6c954a9a0e9f537074f1be7dde71142933/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722e6a732d2532334532333233372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c61726a73266c6f676f436f6c6f723d7768697465 "Angular.js")
 ![Anaconda](https://camo.githubusercontent.com/b92df6010fa9372dafa7b14aa96fe86d6a8c9175fbc8253b3c044aaa004ecf7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465)]
 
-<br />
+<br><br>
 
-<h2><b><i align='center'> 📚 Languages: <br> <br /></i></h2>
+<h2><b><i align='center'> 📚 Languages: <br> </i></h2>
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -101,7 +101,9 @@
 ![Ruby](https://camo.githubusercontent.com/5b61735c54b91b851198d6de978a3ff3f3f9b5c2428bd5ed7f28ced1c93a181c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727562792d2532334343333432442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72756279266c6f676f436f6c6f723d7768697465)
 ![Swift](https://camo.githubusercontent.com/55e1508d75defa7d658205a949df888cfc46f1fc0c933478c71a7d9bd208029a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d4635344132413f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)
 
-<h2><b><i align='center'> ☁️ Clouds: <br /> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> ☁️ Clouds: <br> </i></h2>
   
 ![Vercel](https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
 ![AWS](https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)
@@ -113,7 +115,9 @@
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-20232A?style=for-the-badge&logo=PythonAnywhere&logoColor=61DAFB)
 ![GitJetpack](https://img.shields.io/badge/GitJetpack-20232A?style=for-the-badge&logo=GitJetpack&logoColor=61DAFB)
 
-<h2><b><i align='center'> 💻 My Workspace: <br /> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> 💻 My Workspace: <br> </i></h2>
   
 <p>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -122,7 +126,9 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<h2><b><i align='center'> 📅 Databases: <br /> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> 📅 Databases: <br></i></h2>
 
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud ](https://camo.githubusercontent.com/7b2324b305d6c55a7c0aa7cb47ba8666d2bc3d4b597b06979c9564135d87b80a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)
@@ -130,7 +136,9 @@
 ![MySql](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![Redis](https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)
 
-<h2><b><i align='center'> 🛠️ FrameWorks: <br /> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> 🛠️ FrameWorks: <br> </i></h2>
   
 ![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=Django&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=Flask&logoColor=61DAFB)
@@ -138,23 +146,31 @@
 ![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Next&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
 
-<h2><b><i align='center'> ⚙️ Servers: <br> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> ⚙️ Servers: <br> </i></h2>
   
 ![Apache](https://img.shields.io/badge/Apache-20232A?style=for-the-badge&logo=Apache&logoColor=61DAFB)
 ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%Sql%Server-20232A?style=for-the-badge&logo=Microsoft%Sql%Server%&logoColor=61DAFB)
 
-<h2><b><i align='center'> 📱 Mobile Dev Tools: <br> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> 📱 Mobile Dev Tools: <br></i></h2>
   
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=Expo&logoColor=61DAFB "Expo")
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=Expo&logoColor=61DAFB "Flutter")
 
-<h2><b><i align='center'> 🎮 Game Dev Tools: <br> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> 🎮 Game Dev Tools: <br> </i></h2>
   
 ![Core](https://img.shields.io/badge/Core-20232A?style=for-the-badge&logo=core&logoColor=61DAFB "Core")
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=Unity&logoColor=61DAFB "Unity")
 
-<h2><b><i align='center'> 📄 Code Editor & Ides: <br> <br /></i></h2>
+<br><br>
+
+<h2><b><i align='center'> 📄 Code Editor & Ides: <br></i></h2>
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=for-the-badge&logo=Android%20Studio&logoColor=61DAFB)
@@ -174,7 +190,7 @@ public class CodeBite {
         // Lifelong coder on a journey of constant improvement.
         while (alive) {
             eat();  // Fuel for the coding engine
-            sleep();  // Recharging for epic code adventures 💤
+            sleep();  // Recharging for epic code adventures
             code();  // Crafting software magic
         }
 
@@ -200,7 +216,7 @@ public class CodeBite {
 
 ## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; **_Let's Connect :coffee: ..._**
 
-<p align="center">
+<p align="center" width="100%">
 	
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5BWrKXNH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-rabees-064830251/)
