@@ -58,6 +58,7 @@
 ![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)
 ![App Development](https://img.shields.io/badge/App%20Development-20232A?style=for-the-badge&logo=App%20Development&logoColor=61DAFB)
 ![Game Development](https://img.shields.io/badge/Game%20Development-20232A?style=for-the-badge&logo=Game%20Development&logoColor=61DAFB)
+
 <br><br>
 
 <h2><b><i align='center'> 🕸️ Web Dev Tools: <br> </i></h2>
@@ -76,9 +77,9 @@
 ![Three JS](https://camo.githubusercontent.com/e46148ed5e9cdfcec09a9b969a88e5c0793d62383884d93c058ffaa21405c03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74687265656a732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465)
 ![Vue JS](https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844)
 ![Angular JS](https://camo.githubusercontent.com/0d7ee196556f885375bfd6c271a78a6c954a9a0e9f537074f1be7dde71142933/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722e6a732d2532334532333233372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c61726a73266c6f676f436f6c6f723d7768697465 "Angular.js")
-![Anaconda](https://camo.githubusercontent.com/b92df6010fa9372dafa7b14aa96fe86d6a8c9175fbc8253b3c044aaa004ecf7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465)]
+![Anaconda](https://camo.githubusercontent.com/b92df6010fa9372dafa7b14aa96fe86d6a8c9175fbc8253b3c044aaa004ecf7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465)
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 📚 Languages: <br> </i></h2>
 
@@ -101,7 +102,7 @@
 ![Ruby](https://camo.githubusercontent.com/5b61735c54b91b851198d6de978a3ff3f3f9b5c2428bd5ed7f28ced1c93a181c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727562792d2532334343333432442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72756279266c6f676f436f6c6f723d7768697465)
 ![Swift](https://camo.githubusercontent.com/55e1508d75defa7d658205a949df888cfc46f1fc0c933478c71a7d9bd208029a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d4635344132413f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> ☁️ Clouds: <br> </i></h2>
   
@@ -115,7 +116,7 @@
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-20232A?style=for-the-badge&logo=PythonAnywhere&logoColor=61DAFB)
 ![GitJetpack](https://img.shields.io/badge/GitJetpack-20232A?style=for-the-badge&logo=GitJetpack&logoColor=61DAFB)
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 💻 My Workspace: <br> </i></h2>
   
@@ -126,7 +127,7 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 📅 Databases: <br></i></h2>
 
@@ -136,7 +137,7 @@
 ![MySql](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![Redis](https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 🛠️ FrameWorks: <br> </i></h2>
   
@@ -146,14 +147,14 @@
 ![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Next&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> ⚙️ Servers: <br> </i></h2>
   
 ![Apache](https://img.shields.io/badge/Apache-20232A?style=for-the-badge&logo=Apache&logoColor=61DAFB)
 ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%Sql%Server-20232A?style=for-the-badge&logo=Microsoft%Sql%Server%&logoColor=61DAFB)
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 📱 Mobile Dev Tools: <br></i></h2>
   
@@ -161,14 +162,14 @@
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=Expo&logoColor=61DAFB "Expo")
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=Expo&logoColor=61DAFB "Flutter")
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 🎮 Game Dev Tools: <br> </i></h2>
   
 ![Core](https://img.shields.io/badge/Core-20232A?style=for-the-badge&logo=core&logoColor=61DAFB "Core")
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=Unity&logoColor=61DAFB "Unity")
 
-<br><br>
+<br>
 
 <h2><b><i align='center'> 📄 Code Editor & Ides: <br></i></h2>
   
@@ -216,7 +217,7 @@ public class CodeBite {
 
 ## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; **_Let's Connect :coffee: ..._**
 
-<p align="center" width="100%">
+<div align="center">
 	
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5BWrKXNH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-rabees-064830251/)
@@ -224,15 +225,10 @@ public class CodeBite {
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/ramsescupps)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986124/ramsescupps) <br>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
-:computer: Made by :heart:
-
-[Ramses Cupps](https://github.com/ramsescupps)
-
 If you have any questions or are interested in working together, please don't hesitate to reach out.
-
 </div>
