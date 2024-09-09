@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./Hero.png"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am Ramses</h1>
+
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"> I am Ramses</h1>
  
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
@@ -32,7 +33,6 @@
 </p>
 
 <!-- activity graph start -->
-
 <p align="center">
     <a href="https://ramsescupps.vercel.app">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsescupps&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
@@ -48,11 +48,13 @@
 </p>
 <!-- Github Stats End -->
 
+<br />
+
 ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;**_Languages and Tools ..._**
 
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
   
-[![Server_less_Api Development](https://img.shields.io/badge/Server_less_Api%20Development-20232A?style=for-the-badge&logo=Server_less_Api%20Development&logoColor=61DAFB)]
+![Server_less_Api Development](https://img.shields.io/badge/Server_less_Api%20Development-20232A?style=for-the-badge&logo=Server_less_Api%20Development&logoColor=61DAFB)
 [![Blockchain Development](https://img.shields.io/badge/Blockchain%20Development-20232A?style=for-the-badge&logo=Blockchain%20Development&logoColor=61DAFB)]
 [![Ai Development](https://img.shields.io/badge/Ai%20Development-20232A?style=for-the-badge&logo=Ai%20Development&logoColor=61DAFB)]
 [![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)]
