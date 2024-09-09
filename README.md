@@ -54,7 +54,7 @@
 
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
   
-![Server_less_Api Development](https://img.shields.io/badge/Server_less_Api%20Development-20232A?style=for-the-badge&logo=Server_less_Api%20Development&logoColor=61DAFB)
+[Server_less_Api Development](https://img.shields.io/badge/Server_less_Api%20Development-20232A?style=for-the-badge&logo=Server_less_Api%20Development&logoColor=61DAFB)
 [![Blockchain Development](https://img.shields.io/badge/Blockchain%20Development-20232A?style=for-the-badge&logo=Blockchain%20Development&logoColor=61DAFB)]
 [![Ai Development](https://img.shields.io/badge/Ai%20Development-20232A?style=for-the-badge&logo=Ai%20Development&logoColor=61DAFB)]
 [![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)]
