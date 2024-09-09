@@ -58,7 +58,7 @@
 ![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)
 ![App Development](https://img.shields.io/badge/App%20Development-20232A?style=for-the-badge&logo=App%20Development&logoColor=61DAFB)
 ![Game Development](https://img.shields.io/badge/Game%20Development-20232A?style=for-the-badge&logo=Game%20Development&logoColor=61DAFB)
-<br>
+<br><br>
 
 <h2><b><i align='center'> 🕸️ Web Dev Tools: <br> </i></h2>
   
