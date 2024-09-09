@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./Hero.png"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am RanaRabees</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am Ramses</h1>
  
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
@@ -20,14 +20,14 @@
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About Me ...***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**_About Me ..._**
 
-✔ I'm a passionate ***Frontend*** but aspiring ***Full Stack Developer*** from ***Pakistan*** <br>
-✔ I’m currently learning **Web3.0** <img height="14" src="https://reebaal-hussain.vercel.app/icons8-web-64.png">, **Metaverse** <img height="13" src="https://reebaal-hussain.vercel.app/icons8-metaverse-64.png"> & **API Integration**<br>
+✔ I'm a passionate **_Frontend_** but aspiring **_Senior Full Stack Engineer_** from **_Texas_** <br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉<br>
+
 <p align='center'>
-  📫 How to reach me: <a href='mailto:rrabeeshussain@gmail.com'>rrabeeshussain@gmail.com</a><br>
+  📫 How to reach me: <a href='mailto:sim.amsurio@gmail.com'>sim.amsurio@gmail.com</a><br>
 </p>
 
 <p align="center">
@@ -43,17 +43,16 @@
 <!-- activity graph end -->
 
 <!-- Github Stats Start -->
+
 ## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="42px">&nbsp; My Github Stats ...
 
 <p align="center">
-    <a href="https://github.com/RanaRabees">
-        <img src="https://github-profile-trophy.vercel.app/?username=RanaRabees&column=-1&theme=dracula&layout=compact"width="95%"/> 
+    <a href="https://github.com/ramsescupps">
+        <img src="https://github-profile-trophy.vercel.app/?username=ramsescupps&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 <!-- Github Stats End -->
 
- ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
- 
-
+## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;**_Languages and Tools ..._**
 
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
   
@@ -63,8 +62,6 @@
 [![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![App Development](https://img.shields.io/badge/App%20Development-20232A?style=for-the-badge&logo=App%20Development&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![Game Development](https://img.shields.io/badge/Game%20Development-20232A?style=for-the-badge&logo=Game%20Development&logoColor=61DAFB)](https://github.com/RanaRabees)
-  
-
 
 <h2><b><i align='center'> 🕸️ Web Dev Tools: <br> <b /></i></h2>
   
@@ -85,8 +82,6 @@
 [![Anaconda](https://camo.githubusercontent.com/b92df6010fa9372dafa7b14aa96fe86d6a8c9175fbc8253b3c044aaa004ecf7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 
 <br />
-  
-
 
 <h2><b><i align='center'> 🍧 Design Tools: <br> <b /></i></h2>
   
@@ -103,11 +98,8 @@
 [![Dribble](https://camo.githubusercontent.com/5c1b49450cb16f532040cd485e0d08a85a0bd9d4163f9d7798773740511495d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4472696262626c652d4541344338393f7374796c653d666f722d7468652d6261646765266c6f676f3d6472696262626c65266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![Canva](https://camo.githubusercontent.com/5e97a4e428eb8bdf169c671b77ebe47f45cf9ca4e704e4bcac4932d3c8511ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![Blender](https://camo.githubusercontent.com/d3d4132d3bcfda9732f65588f94f52ca19a7649071a9456275760c68646d6099/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626c656e6465722d2532334635373932412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626c656e646572266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-  
-
 
 <h2><b><i align='center'> 📚 Languages: <br> <b /></i></h2>
-  
 
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/RanaRabees)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/RanaRabees)
@@ -127,8 +119,6 @@
 [![MarkDown](https://camo.githubusercontent.com/a44844ce4d3bf26f4685d5ae0e0fab359cdeca62ad71c675d3d89fd30f418665/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![Ruby](https://camo.githubusercontent.com/5b61735c54b91b851198d6de978a3ff3f3f9b5c2428bd5ed7f28ced1c93a181c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727562792d2532334343333432442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72756279266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![Swift](https://camo.githubusercontent.com/55e1508d75defa7d658205a949df888cfc46f1fc0c933478c71a7d9bd208029a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d4635344132413f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-  
-
 
 <h2><b><i align='center'> ☁️ Clouds: <br> <b /></i></h2>
   
@@ -141,8 +131,6 @@
 [![Digital Ocean](https://camo.githubusercontent.com/34424849aa826b133406acdd126f455a7eb5d0369d2dac3d28ddbfcc40e054a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4469676974616c4f6365616e2d2532333031363766662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6469676974616c4f6365616e266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-20232A?style=for-the-badge&logo=PythonAnywhere&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![GitJetpack](https://img.shields.io/badge/GitJetpack-20232A?style=for-the-badge&logo=GitJetpack&logoColor=61DAFB)](https://github.com/RanaRabees)
-  
-
 
 <h2><b><i align='center'> 💻 My Workspace: <br> <b /></i></h2>
   
@@ -152,22 +140,14 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 <p />
-  
-
-
-
 
 <h2><b><i align='center'> 📅 Databases: <br> <b /></i></h2>
-  
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/RanaRabees)
 [![Google Cloud ](https://camo.githubusercontent.com/7b2324b305d6c55a7c0aa7cb47ba8666d2bc3d4b597b06979c9564135d87b80a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![Postgres](https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![MySql](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
 [![Redis](https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-
-  
-
 
 <h2><b><i align='center'> 🛠️ FrameWorks: <br> <b /></i></h2>
   
@@ -177,28 +157,20 @@
 [![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Next&logoColor=61DAFB)]https://github.com/RanaRabees)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)]https://github.com/RanaRabees)
 
-
-
 <h2><b><i align='center'> ⚙️ Servers: <br> <b /></i></h2>
   
 [![Apache](https://img.shields.io/badge/Apache-20232A?style=for-the-badge&logo=Apache&logoColor=61DAFB)]https://github.com/RanaRabees)
 [![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%Sql%Server-20232A?style=for-the-badge&logo=Microsoft%Sql%Server%&logoColor=61DAFB)]https://github.com/RanaRabees)
 
-
 <h2><b><i align='center'> 📱 Mobile Dev Tools: <br> <b /></i></h2>
   
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/RanaRabees)
 [![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=Expo&logoColor=61DAFB "Expo")](https://github.com/RanaRabees)
-  
-
-
 
 <h2><b><i align='center'> 🎮 Game Dev Tools: <br> <b /></i></h2>
   
 [![Core](https://img.shields.io/badge/Core-20232A?style=for-the-badge&logo=core&logoColor=61DAFB "Core")](https://github.com/RanaRabees)
 [![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=Unity&logoColor=61DAFB "Unity")](https://github.com/RanaRabees)
-  
-
 
 <h2><b><i align='center'> 📄 Code Editor & Ides: <br> <b /></i></h2>
   
@@ -210,7 +182,7 @@
 [![Sublime](https://img.shields.io/badge/Sublime-20232A?style=for-the-badge&logo=Sublime&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![Atom](https://img.shields.io/badge/Atom-20232A?style=for-the-badge&logo=Atom&logoColor=61DAFB)](https://github.com/RanaRabees)
 
-``` 
+```
 public class CodeBite {
     public static void main(String[] args) {
         // 🚀 Striving for perfection, one line of code at a time.
@@ -228,36 +200,41 @@ public class CodeBite {
         // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
     }
 ```
+
 <hr />
 
-
-
 <br><br>
+
 <div align="center">
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
 </div>
 
 <br><br>
+
 <hr />
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; ***A Joke for You ...***
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; **_A Joke for You ..._**
 
 <br><br>
+
 <div align="center">
 <i><----- Keep CALM and always SMILE  😊 -----></i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
 ---
+
 <br><br>
 
 ### 😂 Random Dev Meme
+
 <a href="https://randommeme-five.vercel.app"><img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="README Jokes"/></a>
- 
+
 ---
+
 <!-- markdownlint-enable MD033 -->
 
-## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect :coffee: ...***
+## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; **_Let's Connect :coffee: ..._**
 
 <p align="center">
 	
@@ -273,6 +250,7 @@ public class CodeBite {
 [Rana Rabees](https://github.com/RanaRabees)
 
 You can Support me by buying me a coffee :)
+
 <p align = "center"><a href="https://www.buymeacoffee.com/RanaRabees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 	
 </div>
