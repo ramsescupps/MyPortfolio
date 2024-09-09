@@ -69,10 +69,10 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ramsescupps)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whit)](https://github.com/ramsescupps)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/ramsescupps)
-[![Chakra](https://camo.githubusercontent.com/cc9699ba2e9366e1ea5cfc4ed7b8cdde446c40d13409cdc4773caae774dabfc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616b72612d2532333445443143352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465)](https:github.com/ramsescupps)
+[![Chakra](https://img.shields.io/badge/CHAKRA-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https:github.com/ramsescupps)
 [![Sass](https://camo.githubusercontent.com/aa2d67d682b7d59cb0955695b192fc1390c9da34e90aa0c63079c411d01a9c66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465)](https://github.com/ramsescupps)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ramsescupps)
-[![Jquery](https://img.shields.io/badge/JQUERY-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ramsescupps)(https://github.com/ramsescupps)
+[![Jquery](https://img.shields.io/badge/JQUERY-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ramsescupps)
 [![Three JS](https://camo.githubusercontent.com/e46148ed5e9cdfcec09a9b969a88e5c0793d62383884d93c058ffaa21405c03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74687265656a732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465)](https://github.com/ramsescupps)
 [![Vue JS](https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844)](https://github.com/ramsescupps)
 [![Angular JS](https://camo.githubusercontent.com/0d7ee196556f885375bfd6c271a78a6c954a9a0e9f537074f1be7dde71142933/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722e6a732d2532334532333233372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c61726a73266c6f676f436f6c6f723d7768697465 "Angular.js")](https://github.com/ramsescupps)
@@ -182,19 +182,19 @@
 ```
 public class CodeBite {
     public static void main(String[] args) {
-        // 🚀 Striving for perfection, one line of code at a time.
+        // Striving for perfection, one line of code at a time.
         while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality 💹
+            codeQuality++; // Incrementing code quality
         }
 
-        // 🌟 Lifelong coder on a journey of constant improvement.
+        // Lifelong coder on a journey of constant improvement.
         while (alive) {
-            eat();  // Fuel for the coding engine 🍕
+            eat();  // Fuel for the coding engine
             sleep();  // Recharging for epic code adventures 💤
-            code();  // Crafting software magic 👨‍💻
+            code();  // Crafting software magic
         }
 
-        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
+        // Proudly crafting elegant solutions in the digital realm.
     }
 ```
 
@@ -209,23 +209,6 @@ public class CodeBite {
 <br><br>
 
 <hr />
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; **_A Joke for You ..._**
-
-<br><br>
-
-<div align="center">
-<i><----- Keep CALM and always SMILE  😊 -----></i><br><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
-
----
-
-<br><br>
-
-### 😂 Random Dev Meme
-
-<a href="https://randommeme-five.vercel.app"><img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="README Jokes"/></a>
 
 ---
 
@@ -244,10 +227,8 @@ public class CodeBite {
 <div align="center">
 :computer: Made by :heart:
 
-[Rana Rabees](https://github.com/ramsescupps)
+[Ramses Cupps](https://github.com/ramsescupps)
 
-You can Support me by buying me a coffee :)
+You can Support me by buying me a coffee
 
-<p align = "center"><a href="https://www.buymeacoffee.com/ramsescupps"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
-	
 </div>
