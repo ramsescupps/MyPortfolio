@@ -50,7 +50,7 @@
 
 <br />
 
-<h2><b><i align='center'> ⚡ Experiences: <br> <br /></i></h2>
+<h2><b><i align='center'> ⚡ Experiences: <br> </i></h2>
   
 ![Server_less_Api Development](https://img.shields.io/badge/Server_less_Api%20Development-20232A?style=for-the-badge&logo=Server_less_Api%20Development&logoColor=61DAFB)
 ![Blockchain Development](https://img.shields.io/badge/Blockchain%20Development-20232A?style=for-the-badge&logo=Blockchain%20Development&logoColor=61DAFB)
@@ -58,8 +58,9 @@
 ![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)
 ![App Development](https://img.shields.io/badge/App%20Development-20232A?style=for-the-badge&logo=App%20Development&logoColor=61DAFB)
 ![Game Development](https://img.shields.io/badge/Game%20Development-20232A?style=for-the-badge&logo=Game%20Development&logoColor=61DAFB)
+<br>
 
-<h2><b><i align='center'> 🕸️ Web Dev Tools: <br> <br /></i></h2>
+<h2><b><i align='center'> 🕸️ Web Dev Tools: <br> </i></h2>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)
